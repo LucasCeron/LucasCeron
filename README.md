@@ -3,7 +3,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](joaolucasceron98@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/j_luca5sc/)
 
-![LucasCeron GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasCeron&show_icons=true&theme=transparent)
+![LucasCeron GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasCeron&show_icons=true&theme=dark)
 
 ## Tecnologias que eu uso no meu dia
 
